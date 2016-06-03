@@ -4,9 +4,9 @@ subtitle: Prices
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: Undergraduate.png
+thumbnail: Undergraduate.png
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Price is PER PAGE - We promise 275 words per page <br> Academic Level is judged on assignment difficulty <br> * Subject to availability and page restrictions
 
 ---

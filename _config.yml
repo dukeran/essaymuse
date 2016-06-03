@@ -11,7 +11,7 @@ description: "Academic Writing Made Easy"
 people:
 - name: Kay Garland
   pic: 1
-  position: Lead Designer
+  position: Junior Writer
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Victoria Flemming
   pic: 2
-  position: Lead Marketer
+  position: Senior Writer
   social:
     - title: twitter
       url: #
@@ -33,7 +33,7 @@ people:
 
 - name: Diana Petersen
   pic: 3
-  position: Lead Developer
+  position: Junior Developer
   social:
     - title: twitter
       url: #
